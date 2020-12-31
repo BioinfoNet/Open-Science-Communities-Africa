@@ -1,4 +1,5 @@
 ## Open Science Communities in Africa
+This repository contains a list of Open Science communities in Africa.
 
 Organization| Goals | Lead| Location| Contact| Website| Social Media
 ---|---|---|---|---|---|---
